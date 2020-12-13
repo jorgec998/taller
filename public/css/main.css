@@ -20,10 +20,10 @@ article {
     text-align: center;
 }
 
-
-/*
-main {
-    display: flex;
-    flex-direction: row;
+h1 {
+    
+    font-family: 'Permanent Marker', cursive;
 }
-*/
+h3, h2, p {
+    font-family: 'Architects Daughter', cursive;
+}
