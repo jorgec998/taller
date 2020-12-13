@@ -1,0 +1,29 @@
+.img-title {
+    width: 20%;
+}
+/*
+section {
+    background-color: green;
+    display: grid;
+    grid-template: auto / repeat(3,30%);
+}
+*/
+main {
+    background-color: black;
+}
+
+article {
+    /*background-color: black;*/
+    /*border: 1px solid green;*/
+    /*margin: 3px gray;*/
+    /*padding: 0.5em;*/
+    text-align: center;
+}
+
+
+/*
+main {
+    display: flex;
+    flex-direction: row;
+}
+*/
